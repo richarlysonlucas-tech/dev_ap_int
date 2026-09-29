@@ -34,6 +34,7 @@
 - [ ] Conseguir construir uma página que se adapta a telas de celulares e computadores.
 - [ ] Conectar a interface a uma API pública (ex: buscar clima, CEP, filmes).
 - [ ] Realizar entregas contínuas subindo os desafios no repositório da disciplina.
+- [ ] AVALIAR O DOCENTE: https://forms.gle/RQhogCvz14XVhdYJ7 
 
 - Docente: Prof. Mentor Cloves Rocha.
 - Discentes: 
