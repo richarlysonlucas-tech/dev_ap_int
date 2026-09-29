@@ -8,6 +8,7 @@
 - Practice Test for Written Exams (ENADE Style): https://abre.ai/devapint-enade-style
 - Practice Test: https://share.gemini.google/xhf1JgXoVpcS
 - Immersion Podcasts: [IA_Podcasts_Prof_ClovesRocha](https://abre.ai/immersionpodcasts)
+- AVALIAR O DOCENTE: https://forms.gle/RQhogCvz14XVhdYJ7
 
 # 🗺️ Roadmap de Aprendizagem Etapa Foco da Fase Tecnologias
 * Competências Desenvolvidas
